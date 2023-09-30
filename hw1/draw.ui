@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1680</width>
+    <height>1200</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton_scissor">
+    <property name="geometry">
+     <rect>
+      <x>552</x>
+      <y>1000</y>
+      <width>200</width>
+      <height>60</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>裁剪多边形</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_source">
+    <property name="geometry">
+     <rect>
+      <x>176</x>
+      <y>1000</y>
+      <width>200</width>
+      <height>60</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>目标多边形</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_save">
+    <property name="geometry">
+     <rect>
+      <x>928</x>
+      <y>1000</y>
+      <width>200</width>
+      <height>60</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>确定</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_clean">
+    <property name="geometry">
+     <rect>
+      <x>1304</x>
+      <y>1000</y>
+      <width>200</width>
+      <height>60</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>清除</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1680</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
