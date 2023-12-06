@@ -1,11 +1,11 @@
-*/bulid/
+/*/bulid/
 
-*/dist/
+/*/dist/
 
-*/*.spec/
+/*/*.spec/
 
-*/.idea
+/*/.idea
 
-*/__pycache__
+/*/__pycache__
 
-*/.vs
+/*/.vs
