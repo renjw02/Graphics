@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\Project\Graphics\hw2\hw2\main.cpp(18,24): warning C4305: “初始化”: 从“double”到“float”截断
+E:\Project\Graphics\hw2\hw2\main.cpp(167,25): warning C4101: “fragCompiled”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 223 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  hw2.vcxproj -> E:\Project\Graphics\hw2\x64\Release\hw2.exe
